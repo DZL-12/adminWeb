@@ -2161,7 +2161,7 @@ const NFT_ABI = [
 // 네트워크별 컨트랙트 주소
 const CONTRACT_ADDRESSES = {
   1: "0x0000000000000000000000000000000000000000", // Ethereum Mainnet
-  11155111: "0xE34Fb78F5bDB64f025dbb7a0B64302891fb8888E" // Sepolia Testnet
+  11155111: "0x56f2573f065AC9Dc48a958A038b8598D57F27221" // Sepolia Testnet
 };
 
 // 현재 선택된 네트워크의 컨트랙트 주소 반환
